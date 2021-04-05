@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    width: 1000px;
+    margin: 50px auto;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 20px;
+}
+#tooltip{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 5px 10px;
+}
+.county:hover{
+    stroke:black;
+    stroke-width: 1px;
+}
+.source{
+    text-align: end;
+    margin-top: 20px;
+}

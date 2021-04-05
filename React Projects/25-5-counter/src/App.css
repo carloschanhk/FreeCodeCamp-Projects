@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(26, 107, 117);
+  color: white;
+}
+.App{
+  margin:200px auto;
+  width: 500px;
+  text-align: center;
+}
+h2{
+  font-size: 25px;
+}
+.timeControl{
+  display:flex;
+  justify-content: space-around;
+}
+.timer{
+  border: 3px solid rgba(6, 37, 33, 0.774);
+  border-radius: 30px;
+  width:300px;
+  margin: 15px auto 0 auto;
+  padding-top: 20px;
+}
+.oneMinMark{
+  color: rgb(230, 25, 25)
+}
+.timer p{
+  font-size: 60px;
+}
+button{
+  background:none ;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 30px;
+}
+span{
+  display: inline-block;
+  font-size: 30px;
+  min-width: 40px;
+}
+.break, .session{
+  margin-top: 10px;
+}
+h2{
+  margin-bottom: 0px;
+}

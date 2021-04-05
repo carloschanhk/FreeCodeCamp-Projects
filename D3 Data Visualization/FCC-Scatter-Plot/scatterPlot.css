@@ -1,0 +1,15 @@
+#tooltip{
+    white-space: pre-wrap;
+    border: 1px solid black;
+    background-color: lightblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.container{
+    text-align: center;
+    width: 950px;
+    margin: 100px auto;
+}
+h3{
+    margin: 0;
+}

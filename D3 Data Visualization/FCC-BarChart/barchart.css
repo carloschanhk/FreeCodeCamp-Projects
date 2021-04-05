@@ -1,0 +1,31 @@
+body{
+    background: gray;
+}
+.container{
+    background: lightblue;
+    text-align: center;
+    width: 940px;
+    margin: 100px auto
+}
+svg{
+    width: 935px;
+    height: 700px;
+    margin:auto;
+}
+h1{
+    padding-top: 20px;
+    margin:0;
+}
+.bar:hover{
+    fill: white;
+}
+#tooltip{
+    background-color: lightgray;
+    border: 1px solid black;
+    white-space: pre-wrap;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
